@@ -63,4 +63,4 @@
 <img width="150" height="84" alt="tumblr_7763ad04ee632edfd7939151b7241680_922569de_250" src="https://github.com/user-attachments/assets/8193faa6-5f15-4e1e-ae91-6c3f6aaccff1" />
 <img width="150" height="84" alt="tumblr_9b94afc3cef7bd7bd1217be44d2edd17_2bf9c68f_250" src="https://github.com/user-attachments/assets/dc96b5a9-4c86-473b-9e16-f12005c006a3" />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o3jpmolpsijzzc0fkatyhyrw9&cover_image=true&theme=spotify-embed&show_offline=false&background_color=232c71&interchange=false&profanity=false&bar_color=1861d8&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o3jpmolpsijzzc0fkatyhyrw9&cover_image=true&theme=default&show_offline=false&background_color=091e4e&interchange=false&profanity=false&bar_color=2685c0)](https://github.com/kittinan/spotify-github-profile)
