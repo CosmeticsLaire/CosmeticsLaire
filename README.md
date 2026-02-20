@@ -27,7 +27,7 @@
 * C+H is HEAVILY encouraged! I love cuddling cuz i think its cute and awesome:P
 * OPEN TO MAKING FRIENDS! Though I am very shy and timid at first but I do warm up quickly :3
 * w2i is encouraged as well since i am mostly offtab or doing something
-* idk what else
+* Dyslexic and dense - PLS be forward or at least not vague
 <div align="left">
 </details>
 
