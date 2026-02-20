@@ -14,7 +14,7 @@
   ![](https://komarev.com/ghpvc/?username=CosmeticsLairet&color=628CBD&style=plastic&label=🐇)
 
   <div align="center">
-<img src="https://i.postimg.cc/J7yWc663/tumblr-5e1c6db742942651c47eb1a411575a6d-4a6dbcd1-75.webp"width="20" height="20" />  Z, BEAR, MAINGO  <img src="https://i.postimg.cc/3RSMg6D2/c46d71a7.gif"width="20" height="20" />
+<img src="https://github.com/user-attachments/assets/b830cd32-33e9-43a0-93aa-8b6dc5d1dcf0"width="20" height="20" />  Z, BEAR, MAINGO  <img src="https://i.postimg.cc/3RSMg6D2/c46d71a7.gif"width="20" height="20" />
 
 <div align="center">
 
