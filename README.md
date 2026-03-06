@@ -11,7 +11,7 @@
 
 [Ata](https://larryberry.atabook.org/) | [Guns](https://guns.lol/morningzest) | strawpage soon |
 
-  ![](https://komarev.com/ghpvc/?username=CosmeticsLairet&color=628CBD&style=plastic&label=🐇)
+  ![](https://komarev.com/ghpvc/?username=CosmeticsLairet&color=001415&style=plastic&label=💿)
 
   <div align="center">
 <img src="https://github.com/user-attachments/assets/d06ec40b-0ad9-43f7-a8e8-26baa1f069e1"width="20" height="20" />  Z, Silo, Faun  <img src="https://i.pinimg.com/originals/eb/8d/c9/eb8dc9b34d67dcd5895c32467d3e24e3.gif"width="20" height="20" />
