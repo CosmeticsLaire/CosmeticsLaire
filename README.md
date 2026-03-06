@@ -51,4 +51,4 @@
 
 <div align="center"> 
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o3jpmolpsijzzc0fkatyhyrw9&cover_image=true&theme=default&show_offline=false&background_color=091e4e&interchange=false&profanity=false&bar_color=2685c0)](https://github.com/kittinan/spotify-github-profile)
