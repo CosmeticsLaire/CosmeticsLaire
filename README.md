@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://i.postimg.cc/pTFnKQ36/93ec319d00e1e14f0f7c7055d8ec7708.gif"width="400" height="400" /></p> 
+<img src="https://i.pinimg.com/736x/3b/82/af/3b82af8cbab9bbb2db9ec9a59c6cefcd.jpg"width="400" height="400" /></p> 
 
 <div align="center"> 
 
 
 <div align="center">
   
-  $\color{#5CA6FF}{\textup{Artist | 5teen}}$ 
+  $\color{#418e7e}{\textup{Artist | 5teen}}$ 
 <div align="center">
 
 [Ata](https://larryberry.atabook.org/) | [Guns](https://guns.lol/morningzest) | strawpage soon |
@@ -14,7 +14,7 @@
   ![](https://komarev.com/ghpvc/?username=CosmeticsLairet&color=628CBD&style=plastic&label=🐇)
 
   <div align="center">
-<img src="https://github.com/user-attachments/assets/b830cd32-33e9-43a0-93aa-8b6dc5d1dcf0"width="20" height="20" />  Z, BEAR, MAINGO  <img src="https://i.postimg.cc/3RSMg6D2/c46d71a7.gif"width="20" height="20" />
+<img src="https://github.com/user-attachments/assets/d06ec40b-0ad9-43f7-a8e8-26baa1f069e1"width="20" height="20" />  Z, Silo, Faun  <img src="https://i.pinimg.com/originals/eb/8d/c9/eb8dc9b34d67dcd5895c32467d3e24e3.gif"width="20" height="20" />
 
 <div align="center">
 
@@ -47,11 +47,8 @@
 </details>
 
 <div align="center">
-<img src="https://i.postimg.cc/yN7cRrHL/3b6bb52d0cb8f82ad26a0c4be9c7b361.jpg"width="400" height="400" /></p> 
+<img src="https://i.pinimg.com/1200x/13/e1/91/13e191add7099d6fd398b5ad72885b6f.jpg"width="400" height="400" /></p> 
 
 <div align="center"> 
 
-<div align="center"> 
-<img width="320" height="41" alt="tumblr_3837f81efb037b78d5f3b83136abd9ff_0c9e64c9_400" src="https://github.com/user-attachments/assets/6217d30c-c675-480a-9491-b6ba0c38f78c" />
 
-<div align="center"> 
