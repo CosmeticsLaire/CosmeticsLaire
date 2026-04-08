@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/3b/82/af/3b82af8cbab9bbb2db9ec9a59c6cefcd.jpg"width="400" height="400" /></p> 
+<img src="https://i.pinimg.com/originals/ee/fb/1b/eefb1b059b443656a907acda41241f0b.gif"width="400" height="400" /></p> 
 
 <div align="center"> 
 
@@ -14,7 +14,8 @@
   ![](https://komarev.com/ghpvc/?username=CosmeticsLairet&color=001415&style=plastic&label=💿)
 
   <div align="center">
-<img src="https://github.com/user-attachments/assets/d06ec40b-0ad9-43f7-a8e8-26baa1f069e1"width="20" height="20" />  Z, Zest, Colo  <img src="https://i.pinimg.com/originals/eb/8d/c9/eb8dc9b34d67dcd5895c32467d3e24e3.gif"width="20" height="20" />
+    
+ $\color{#418e7e}{\textup{Z, Zest, Colo}}$
 
 <div align="center">
 
@@ -47,7 +48,7 @@
 </details>
 
 <div align="center">
-<img src="https://i.pinimg.com/1200x/13/e1/91/13e191add7099d6fd398b5ad72885b6f.jpg"width="400" height="400" /></p> 
+<img src="https://i.pinimg.com/originals/ed/3b/5a/ed3b5a6412027798897c2ce7196af984.gif"width="400" height="400" /></p> 
 
 <div align="center"> 
 
