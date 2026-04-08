@@ -9,7 +9,7 @@
   $\color{#418e7e}{\textup{Artist | 5teen}}$ 
 <div align="center">
 
-[Ata](https://larryberry.atabook.org/) | [Guns](https://guns.lol/morningzest) | [Strwpage](https://pureberry.straw.page) |
+[Ata](https://larryberry.atabook.org/) | [Guns](https://guns.lol/morningzest) | [Strwpage](https://pureberry.straw.page)
 
   ![](https://komarev.com/ghpvc/?username=CosmeticsLairet&color=001415&style=plastic&label=💿)
 
@@ -24,10 +24,10 @@
  <div align="left">
 
 * Any/All pronouns (Agender)
-* C+H is HEAVILY encouraged! I love cuddling cuz i think its cute and awesome:P
-* OPEN TO MAKING FRIENDS! Though I am very shy and timid at first but I do warm up quickly :3
+* C+H is HEAVILY encouraged
+* I am friendly and I love making friends! ^^
 * w2i is encouraged as well since i am mostly offtab or doing something
-* Dyslexic and dense - PLS be forward or at least not vague
+* Dyslexic and dense - PLEASE be forward or at least not vague
 <div align="left">
 </details>
 
@@ -41,7 +41,7 @@
 
 * BASIC DNI!
 * Proshippers/Darkshippers 
-* Starting unnecessary drama and then try to continue it, GET OUT!
+* Starting unnecessary drama
 * Genuine freaks and haters grrrhhh
 <div align="left">
 </details>
