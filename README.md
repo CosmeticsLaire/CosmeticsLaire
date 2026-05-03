@@ -47,6 +47,23 @@
 <div align="left">
 </details>
 
+
+
+<div align="center">
+<details>
+  <summary> $\huge{\textsf{Interests}}$ </summary>
+ <div align="left">
+
+* Transformers
+* Team Fortress 2
+* Demon Slayer
+* Portal 2
+* Roblox
+* Horror games
+* I cant remember more HELP
+<div align="left">
+</details>
+
 <div align="center">
 <img src="https://i.pinimg.com/originals/ed/3b/5a/ed3b5a6412027798897c2ce7196af984.gif"width="400" height="200" /></p> 
 
