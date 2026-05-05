@@ -15,7 +15,7 @@
 
   <div align="center">
     
- $\color{#418e7e}{\textup{Z, Zest, Colo}}$
+ $\color{#418e7e}{\textup{Z, Zest, Spy}}$
 
 <div align="center">
 
