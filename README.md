@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  $\color{#418e7e}{\textup{Artist | 5teen}}$ 
+  $\color{#418e7e}{\textup{Artist | 6teen}}$ 
 <div align="center">
 
 [Ata](https://larryberry.atabook.org/) | [Guns](https://guns.lol/morningzest) | [Strwpage soon] | [LURK](https://zest.lurk.me)
