@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/ee/fb/1b/eefb1b059b443656a907acda41241f0b.gif"width="400" height="200" /></p> 
+<img src="https://github.com/user-attachments/assets/4117a6c6-5bb6-404b-92b2-67003ed1a8e1"width="900" height="200" /></p> 
 
 <div align="center"> 
 
 
 <div align="center">
   
-  $\color{#418e7e}{\textup{Artist | 6teen}}$ 
+  $\color{#F0BD1D}{\textup{Artist | 6teen}}$ 
 <div align="center">
 
 [Ata](https://larryberry.atabook.org/) | [Guns](https://guns.lol/morningzest) | [Strwpage soon] | [LURK](https://zest.lurk.me)
@@ -15,7 +15,7 @@
 
   <div align="center">
     
- $\color{#418e7e}{\textup{Z, Zest, Bex}}$
+ $\color{#F0BD1D}{\textup{Z, Zest, Bex}}$
 
 <div align="center">
 
@@ -65,8 +65,9 @@
 </details>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/ed/3b/5a/ed3b5a6412027798897c2ce7196af984.gif"width="400" height="200" /></p> 
+<img src="https://github.com/user-attachments/assets/aa9740f1-82f9-48a4-9d61-6a65cc762621"width="400" height="200" /></p> 
 
 <div align="center"> 
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o3jpmolpsijzzc0fkatyhyrw9&cover_image=true&theme=novatorem&show_offline=false&background_color=122d3b&interchange=false&profanity=false&bar_color=002594&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
