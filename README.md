@@ -9,7 +9,7 @@
   $\color{#F0BD1D}{\textup{Artist | 6teen}}$ 
 <div align="center">
 
-[Ata](https://larryberry.atabook.org/) | [Guns](https://guns.lol/morningzest) | [Strwpage soon] | [LURK](https://zest.lurk.me)
+[Ata](https://larryberry.atabook.org/) | [Guns](https://guns.lol/morningzest) | [Strwpage](https://fruitytootuy.straw.page) | [LURK](https://zest.lurk.me)
 
   ![](https://komarev.com/ghpvc/?username=CosmeticsLairet&color=001415&style=plastic&label=💿)
 
