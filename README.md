@@ -15,7 +15,7 @@
 
   <div align="center">
     
- $\color{#F0BD1D}{\textup{Z, Zest, Fruity}}$
+ $\color{#F0BD1D}{\textup{Munk}}$
 
 <div align="center">
 
